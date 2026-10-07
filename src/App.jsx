@@ -54,8 +54,8 @@ function Contact() {
   }
   return (
     <form className="form" onSubmit={send}>
-      <input name="name" placeholder="Your name" required maxLength={100} />
-      <input name="email" type="email" placeholder="Your email" required maxLength={200} />
+      <input name="name" placeholder="Rasel Islam" required maxLength={100} />
+      <input name="email" type="email" placeholder="raselbyte@gmail.com" required maxLength={200} />
       <textarea name="message" rows={4} placeholder="Message" required maxLength={3000} />
       <input className="hp" name="website" tabIndex={-1} autoComplete="off" aria-hidden="true" />
       <button disabled={s === 'sending'}>Send message</button>

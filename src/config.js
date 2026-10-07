@@ -3,8 +3,8 @@ export const C = {
   cv: "CV OF RASEL ISLAM.pdf",
   headline: "Network engineer, building my way into DevOps and cloud.",
   intro: "I run and troubleshoot production networks today, and I'm moving toward automation, cloud infrastructure and DevOps. This page shows my plan, what I'm learning, and what I've done so far.",
-  email: "you@yourdomain.com",
-  links: [{label:"GitHub",url:"https://github.com/Raselx1"},{label:"LinkedIn",url:"https://linkedin.com/in/yourname"}],
+  email: "raselbyte@gmail.com",
+  links: [{label:"GitHub",url:"https://github.com/Raselx1"},{label:"LinkedIn",url:"https://linkedin.com/in/0xr10xl"}],
   planSub: "From network engineer to DevOps and cloud engineer.",
   plan: [
     {title:"Network engineering foundation", when:"Done", status:"done", text:"Routing, switching, firewalls and day-to-day operations (CCNA level or above)."},
@@ -23,8 +23,8 @@ export const C = {
   ],
   expSub: "Where I've worked.",
   experience: [
-    {role:"Network Engineer", org:"Your Company", date:"20XX – Present", points:["Manage and monitor LAN, WAN and firewall infrastructure.","Troubleshoot outages and improve network uptime.","Automate repetitive tasks with scripts."]},
-    {role:"Junior Network Engineer", org:"Previous Company", date:"20XX – 20XX", points:["Configured switches and routers.","Supported the NOC and handled tickets."]}
+    {role:"Engineer", org:"HRC Technologies LTD", date:"20XX – Present", points:["Manage and monitor LAN, WAN and firewall infrastructure.","Troubleshoot outages and improve network uptime.","Automate repetitive tasks with scripts."]},
+    {role:"Assistant Engineer", org:"Triangle Services Limite", date:"20XX – 20XX", points:["Configured switches and routers.","Supported the NOC and handled tickets."]}
   ],
   projSub: "Hands-on labs and projects (replace with your own).",
   projects: [
